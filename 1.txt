@@ -1,4 +1,4 @@
-Hello master!
+Hello master from user1!
 Line from user1
 Line2 from user1
 
