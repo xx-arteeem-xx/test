@@ -3,3 +3,5 @@ Line from user1
 Line2 from user1
 
 CONFLICT!
+
+Some text from feature
