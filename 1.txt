@@ -6,3 +6,5 @@ CONFLICT!
 
 Some text from feature
 And Another Text from feature...
+
+some text in develop
